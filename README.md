@@ -23,7 +23,10 @@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=vishal354)
+<!-- ![](https://komarev.com/ghpvc/?username=vishal354) -->
+- 🌱 I’m currently learning Web Development, Machine Learning
+- ⚡ Fun fact: Real programmers use notepad.
+
 
 <!--
 **vishal354/vishal354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
