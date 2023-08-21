@@ -24,8 +24,7 @@
 <br />
 
 <!-- ![](https://komarev.com/ghpvc/?username=vishal354) -->
-- 🌱 I’m currently learning Web Development, Machine Learning
-- ⚡ Fun fact: Real programmers use notepad.
+- 🌱 I’m currently learning Web Development
 
 
 <!--
